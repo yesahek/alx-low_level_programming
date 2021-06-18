@@ -3,6 +3,6 @@
 ---
 ___
 **ALX SCHOOL PROJECT**
-- alx-low_level_programming  github repo
-
+- alx-low_level_programming github repo
+- 0x00-hello_world
 \#Yesahek
