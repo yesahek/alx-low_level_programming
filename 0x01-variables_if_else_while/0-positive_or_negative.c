@@ -5,8 +5,8 @@
 
 /**
  * main - this function for random number on n
- * is positive or negative
- * or Zero
+ * is positive or negative or zero
+ * Return: retuns 0
  */
 int main(void)
 {
